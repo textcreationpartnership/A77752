@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The enjoyment</title>
+            <author>Buckingham, John Sheffield, Duke of, 1648-1720 or 21.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77752</idno>
+            <idno type="STC">Wing B5336B</idno>
+            <idno type="STC">ESTC R230166</idno>
+            <idno type="EEBO-CITATION">99896207</idno>
+            <idno type="PROQUEST">99896207</idno>
+            <idno type="VID">153837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153837)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2382:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The enjoyment</title>
+                  <author>Buckingham, John Sheffield, Duke of, 1648-1720 or 21.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>To be sold at the Judges Head in Chancery-Lane, near Fleetstreet,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1679]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Attributed by Wing (CD-ROM edition) to John Sheffield, Duke of Buckingham.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:153837:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>THE ENJOYMENT. <date>
+                  <add>1679.</add>
+               </date>
+            </head>
+            <l>SInce now my <hi>Silvia</hi> is as kinde as fair,</l>
+            <l>Let wit and joy ſucceed my dull deſpair.</l>
+            <l>O what a night of pleaſure was the laſt!</l>
+            <l>A full reward for all my troubles paſt:</l>
+            <l>And on my head if future miſchief fall,</l>
+            <l>This happy night ſhall make amends for all.</l>
+            <l>Nay though my <hi>Silvia's</hi> Love ſhould turn to hate,</l>
+            <l>I'll think of this, and dye contented with my fate.</l>
+            <l>Twelve was the lucky Minute when we met,</l>
+            <l>And on her Bed were cloſe together ſet;</l>
+            <l>Though liſtning Spyes might be perhaps too near,</l>
+            <l>Love fill'd our hearts, there was no Room for fear.</l>
+            <l>Now whilſt I ſtrive her melting heart to move</l>
+            <l>With all the powerfull Eloquence of Love:</l>
+            <l>In her fair face I ſaw the Colour riſe,</l>
+            <l>And an unuſuall Softneſſe in her Eyes,</l>
+            <l>Gently they look, and I with Joy adore</l>
+            <l>That only Charm they never had before!</l>
+            <lg>
+               <l>The wounds they made, her Tongue was us'd to heal,</l>
+               <l>But now theſe gentle Enemies reveal</l>
+               <l>A Secret, which that friend would ſtill conceal.</l>
+            </lg>
+            <l>My Eyes tranſported too with Amorous rage,</l>
+            <l>Seem fierce with expectation to engage:</l>
+            <l>But faſt ſhe holds my hands, and cloſe her thighs,</l>
+            <l>And what ſhe longs to do, with frowns denies.</l>
+            <l>A ſtrange effect on fooliſh Women wrought,</l>
+            <l>Bred in diſguiſes, and by Cuſtome taught:</l>
+            <l>Cuſtome, which Wiſedome ſometimes over-rules,</l>
+            <l>But ſerves inſtead of reaſon to the fools:</l>
+            <l>Cuſtome, which all the world to Slavery brings;</l>
+            <l>The dull excuſe for doing ſilly things.</l>
+            <l>
+               <pb n="2" facs="tcp:153837:2"/>
+               <!-- PDF PAGE 23 -->
+She by this Method of her fooliſh Sex,</l>
+            <l>Is forc'd a while me and herſelf to vex.</l>
+            <l>But now when thus we had been ſtrugling long,</l>
+            <l>Her Limbs grow weak, and her deſires grow ſtrong:</l>
+            <l>How can ſhe hold to let the <hi>Hero</hi> in;</l>
+            <l>He ſtorms without, and Love betrays within.</l>
+            <l>Her hands at laſt to hide her bluſhes, leave</l>
+            <l>The Fort unguarded, willing to receive</l>
+            <l>My fierce aſſault, made with a Lovers haſt;</l>
+            <l>Like Lightning piercing, and as quickly paſt.</l>
+            <l>Thus does fond Nature with her Children play,</l>
+            <l>Juſt ſhews us Joy, then ſnatches it away.</l>
+            <l>'Tis not th' exceſs of pleaſure makes it ſhort;</l>
+            <l>The pain of Love's as raging as the ſport:</l>
+            <l>And yet, alas, that laſts; we ſigh all night</l>
+            <l>With grief, but ſcarce one moment with delight.</l>
+            <l>Some little pain may check her kinde deſire,</l>
+            <l>But not enough to make her once retire:</l>
+            <l>Maids wounds for pleaſure bear as Men for praiſe,</l>
+            <l>Here Honour heals, there Love the ſmart allays:</l>
+            <l>The World if Juſt, would harmfull courage blame,</l>
+            <l>And this more innocent reward with fame.</l>
+            <l>Now ſhe her well contented thoughts employs,</l>
+            <l>On her paſt fears, and on her future Joys:</l>
+            <l>Whoſe Harbinger did roughly all remove,</l>
+            <l>To make fit room for great Luxurious Love,</l>
+            <l>Fond of the welcome gueſt, her Arms embrace</l>
+            <l>My body, and her hands a better place:</l>
+            <l>Which with one touch ſo pleas'd and proud does grow,</l>
+            <l>It ſwells beyond the graſp that made it ſo.</l>
+            <l>Confinement Scorns in any ſtraighter Walls,</l>
+            <l>Then thoſe of Love, where it contented falls:</l>
+            <l>Though twice o'rethrown he more enflam'd does riſe:</l>
+            <l>And will to the laſt drop fight out loves prize.</l>
+            <l>She like ſome Amazon in ſtory proves,</l>
+            <l>That overcomes the <hi>Hero</hi> whom ſhe Loves.</l>
+            <l>In the cloſe ſtrife ſhe takes ſo much delight,</l>
+            <l>She then can think of nothing but the fight:</l>
+            <l>With Joy ſhe lays him panting at her feet,</l>
+            <l>But with more joy does his recovery meet.</l>
+            <l>Her trembling hands firſt gently raiſe his head,</l>
+            <l>She almoſt dyes for fear that he is dead:</l>
+            <l>Then binds his wounds up with a buſy hand,</l>
+            <l>And with that balm enables him to ſtand,</l>
+            <l>Till by her eyes ſhe Conquers him once more,</l>
+            <l>And wounds him deeper then ſhe did before.</l>
+            <l>Though fallen from the Top of pleaſures hill,</l>
+            <l>With longing Eyes we look up thither ſtill:</l>
+            <l>
+               <pb n="3" facs="tcp:153837:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+Still thither Our unwearied wiſhes tend,</l>
+            <l>Till we that heighth of happineſs aſcend</l>
+            <l>By gentle ſteps, th' aſcent it ſelf exceeds</l>
+            <l>All Joys, but that alone to which it leads.</l>
+            <l>Firſt then ſo long and lovingly we kiſs,</l>
+            <l>As if like Doves, we knew no dearer bliſs:</l>
+            <l>Still in one Mouth our Tongues together play,</l>
+            <l>While groping hands are pleas'd no leſs then they.</l>
+            <l>Thus cling'd together now awhile we reſt,</l>
+            <l>Breathing our Souls into each others breaſt:</l>
+            <l>Then give a general kiſs of all our parts</l>
+            <l>While this beſt way we make exchange of hearts.</l>
+            <l>Here would my praiſe as well as pleaſure dwell,</l>
+            <l>Enjoyments ſelf I ſcarcely like ſo well:</l>
+            <l>The little this comes ſhort in Rage and ſtrength,</l>
+            <l>Is largely recompenc'd with endleſs length.</l>
+            <lg>
+               <l>This is a joy would laſt, if we could ſtay,</l>
+               <l>But Loves too eager to admit delay,</l>
+               <l>And hurries us along ſo ſmooth away.</l>
+            </lg>
+            <l>Now wanton with delight we nimbly move,</l>
+            <l>Our plyant Limbs in all the ſhapes of Love:</l>
+            <l>Our motions not like thoſe of game ſome fools,</l>
+            <l>Whoſe active Bodies ſhew their heavy Souls,</l>
+            <l>But ſports of Love, in which a willing minde,</l>
+            <l>Makes us as able as our hearts are kinde.</l>
+            <l>At length all languiſhing and out of breath,</l>
+            <l>Panting as in the agonies of death,</l>
+            <l>We lye entranc'd, till one provoking kiſs</l>
+            <l>Tranſports our raviſh'd Souls to paradice.</l>
+            <l>O Heaven of Love, thou moment of delight!</l>
+            <l>Wrong'd by my words, my fancy does thee right.</l>
+            <l>Methinks I lye all melting in her Charms,</l>
+            <l>And faſt lockt up within her Legs and Arms:</l>
+            <l>Bent are our mindes and all our thoughts on fire,</l>
+            <l>Juſt labouring in the pangs of fierce deſire.</l>
+            <l>At once, like Miſers Wallowing in their ſtore,</l>
+            <l>In full poſſeſſion, yet deſiring more.</l>
+            <l>Thus with repeated pleaſures while we waſt</l>
+            <l>Our happy hours, that like ſhort Minuts paſt,</l>
+            <l>To ſuch a ſum of bliſs our Joys amount,</l>
+            <l>The number now becomes too great too count.</l>
+            <l>Silent as Night are all ſincereſt Joys,</l>
+            <l>Like deepeſt Waters running with leaſt Noiſe.</l>
+            <l>But now at laſt for want of further force</l>
+            <l>From deeds, alas, we fall into diſcourſe!</l>
+            <l>A fall which each of us in vain bemoans,</l>
+            <l>A greater fall then that of Kings from Thrones,</l>
+            <l>
+               <pb n="4" facs="tcp:153837:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->
+The Tide of pleaſure flowing now no more,</l>
+            <l>We lye like Fiſh left gaſping on the ſhore.</l>
+            <l>And now as afier fighting, wounds appear,</l>
+            <l>Which we in heat, did neither feel nor fear,</l>
+            <l>She for her ſake intreats me to give o're,</l>
+            <l>And yet for mine would gladly ſuffer more.</l>
+            <lg>
+               <l>Her words are coy, while all her motions Woo,</l>
+               <l>And when ſhe asks me if it pleaſe me too,</l>
+               <l>I rage to ſhew how well but 'twill not do.</l>
+            </lg>
+            <l>Thus would hot Love run it ſelf out of breath,</l>
+            <l>And wanting reſt, finde it too ſoon in death,</l>
+            <l>Did not wiſe Nature with a gentle force</l>
+            <l>Reſtrain its rage, and ſtop its headlong courſe:</l>
+            <l>Indulgently ſevere, ſhe well does ſpare</l>
+            <l>This Childe of hers, which moſt deſerves her care.</l>
+         </div>
+         <div type="notice">
+            <p>Theſe Verſes amongſt many others, being ready to be Publiſh'd and not poſſibly to be ſtop'd in this Liberty of the Preſs; a friend of the Authors thought it neceſſary to print them ſingle by the Originall pa<g ref="char:EOLhyphen"/>per, to prevent the errours which will be found in that which is coming out, which is falſely tranſcrib'd from a ſurreptitious Copy:</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>To be Sold at the <hi>Judges Head</hi> in <hi>Chancery-Lane,</hi> near <hi>Fleetſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
